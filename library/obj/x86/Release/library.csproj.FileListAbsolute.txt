@@ -1,0 +1,5 @@
+H:\store\works\Учёба\C#\academy\library\library\bin\Release\library.exe
+H:\store\works\Учёба\C#\academy\library\library\bin\Release\library.pdb
+H:\store\works\Учёба\C#\academy\library\library\obj\x86\Release\ResolveAssemblyReference.cache
+H:\store\works\Учёба\C#\academy\library\library\obj\x86\Release\library.exe
+H:\store\works\Учёба\C#\academy\library\library\obj\x86\Release\library.pdb

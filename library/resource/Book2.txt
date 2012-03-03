@@ -1,0 +1,4 @@
+title: Книжка2
+author: Author2
+Content of Book2
+it's still empty
